@@ -9,7 +9,7 @@ instance_type = "t2.micro"
 subnet_id = "subnet-0674620a5c12a9c0c"
 
 tags = {
-    Name = "maharaj-server"
+    Name = "mahraj-server"
   }
 }
 
